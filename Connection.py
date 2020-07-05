@@ -9,7 +9,7 @@ import pymysql
 DB_Server = "testdbsvr.sh.local"
 DB_Name = "db"
 DB_User = "admin"
-DB_Password = "Shanghai2010"
+DB_Password = "xxxxxxxxxx"
 
 print("Connecting to database...")
 
